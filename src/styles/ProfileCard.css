@@ -57,12 +57,12 @@ p {
 }
 
 .profile-card__avatar {
-  height: 90px;
+  height: 70px;
   background-color: white;
 }
 
 .profile-card__avatar img {
-  width: 35%;
+  width: 30%;
   border: 5px solid white;
   height: auto;
   border-radius: 50%;
